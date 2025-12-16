@@ -1,4 +1,4 @@
-# Airbnb Price & Booking Prediction (Extra Credit)
+# Airbnb Price & Booking Prediction
 
 This project explores temporal dynamics in Airbnb data across four major cities (Austin, Chicago, Santa Cruz, Washington DC). It constructs a night-level panel dataset to analyze seasonality and trains machine learning models (XGBoost and Neural Networks) to predict nightly prices and booking probabilities.
 
